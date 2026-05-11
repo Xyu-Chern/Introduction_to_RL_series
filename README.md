@@ -11,11 +11,42 @@
 ## 必须学的课
 - [missing semester](https://missing.csail.mit.edu/) 至少懂git, linux命令
 
+## 有用的课
+- CS285
+- [Foundation of RL in six class](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) [笔记]
+
 ## 有用的project
 - [CORL](https://github.com/tinkoff-ai/CORL)
 - jaxcorl
 - fql
 - rejax
 
-## 你需要学会自己装环境
+## 必须会装的环境
 - mujoco/ ogbench / jax[cuda]
+
+## 绕不开的文章
+Tradition RL
+- dqn
+- sarsa
+- pg
+- ppo
+- sac
+- ddpg
+  
+Offline RL
+- iql
+- cql
+- ifql
+- hiql
+- fql
+- rebrac
+- brac
+
+Efficient RL
+- FQL
+- diffuser
+- meanflow ql
+- bdpo
+- 
+
+  
