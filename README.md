@@ -9,7 +9,7 @@
 - [苏剑林](https://spaces.ac.cn/me.html)
 
 ## 必须学的课
-- [missing semester](https://missing.csail.mit.edu/)
+- [missing semester](https://missing.csail.mit.edu/) 至少懂git, linux命令
 
 ## 有用的project
 - [CORL](https://github.com/tinkoff-ai/CORL)
