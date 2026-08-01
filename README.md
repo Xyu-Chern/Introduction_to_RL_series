@@ -25,6 +25,7 @@
 - jaxcorl
 - fql
 - rejax
+- gymnax
 
 ## 绕不开的文章
 Tradition RL
